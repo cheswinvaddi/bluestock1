@@ -1,16 +1,18 @@
-# All India Villages Data Analysis
+# All India Villages Data API - Data Analytics Module
 
-## Tech Used
-- Python
-- Pandas
-- PostgreSQL
-
-## Features
-- Data profiling
+## Completed
+- Data ingestion
 - Data cleaning
-- Normalized schema generation
-- Analytical insights
+- Normalization
+- Analytics insights
 
-## Run
-pip install -r requirements.txt
-python village_analysis.py
+## Dataset Coverage
+- 28 States
+- 489 Districts
+- 5143 Subdistricts
+- 335889 Villages
+
+## Tech Stack
+Python
+Pandas
+PostgreSQL
